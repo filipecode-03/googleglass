@@ -1,6 +1,5 @@
 # 👓 Website do Google Glass 🌐
 
-
 ### Sobre o Site
 Esse foi o primeiro site, que o professor Gustavo Guanabara começou a apresentar para os seus alunos no canal Curso em Vídeo. Ele foi desenvolvido como parte do aprendizado de **HTML**, **CSS** e **JavaScript**, mostrando como combinar essas tecnologias para criar um design atraente e funcional. 🎨💻
 
@@ -19,3 +18,10 @@ A didática do professor Gustavo Guanabara foi essencial para entender a criaç�
 Este projeto é uma prova de como boas orientações podem fazer a diferença no aprendizado de desenvolvimento web! 🙌
 
 ### Layout do site
+<img src="https://i.ibb.co/nfYPCgk/Captura-de-tela-2025-01-16-152228.png" alt="Captura-de-tela-2025-01-16-152228" border="0">
+
+### 🚀 Tecnologias Utilizadas
+
+- HTML
+- CSS
+- JavaScript
